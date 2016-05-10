@@ -1,0 +1,9 @@
+@charset "utf-8";
+/*
+ * 百科触屏版词条页新版样式
+ * 创建：clareli
+ * 维护：clareli
+ */
+html{/*-webkit-text-size-adjust:none;*/ }
+body{ /*font-family:"microsoft yahei","Verdana"; */-webkit-tap-highlight-color: rgba(0,0,0,0);font-size:16px;/*position:relative;*/}
+a{ /*color:#0066cb;*/ color:#36c; -webkit-tap-highlight-color: rgba(0,0,0,0); }
